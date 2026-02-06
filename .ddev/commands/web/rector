@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## Description: Run Rector for code modernization
+## Usage: rector [flags]
+## Example: "ddev rector --dry-run"
+
+vendor/bin/rector "$@"
+chmod +x .ddev/commands/web/rector

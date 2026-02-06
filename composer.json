@@ -181,5 +181,8 @@
             "@composer install --ansi"
         ],
         "init-theme": "sh scripts/init-theme.sh"
+    },
+    "require-dev": {
+        "palantirnet/drupal-rector": "^0.13.1"
     }
 }
