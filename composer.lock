@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b72222df71f63f6fa17fde2989656e39",
+    "content-hash": "d7d9d85751f2a867e324be69e12a2d1c",
     "packages": [
         {
             "name": "acquia/memcache-settings",
@@ -123,12 +123,12 @@
             "version": "2.7.2",
             "source": {
                 "type": "git",
-                "url": "git@github.com:woothemes/FlexSlider.git",
+                "url": "https://github.com/woocommerce/FlexSlider.git",
                 "reference": "690832b7f972298e76e2965714657a2beec9e35c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/woothemes/FlexSlider/zipball/690832b7f972298e76e2965714657a2beec9e35c",
+                "url": "https://api.github.com/repos/woocommerce/FlexSlider/zipball/690832b7f972298e76e2965714657a2beec9e35c",
                 "reference": "690832b7f972298e76e2965714657a2beec9e35c"
             },
             "require": {
@@ -2508,7 +2508,7 @@
             "version": "8.3.16",
             "source": {
                 "type": "git",
-                "url": "https://git.drupalcode.org/project/coder.git",
+                "url": "https://github.com/pfrenssen/coder.git",
                 "reference": "d6f6112e5e84ff4f6baaada223c93dadbd6d3887"
             },
             "require": {
@@ -3208,7 +3208,7 @@
                     "homepage": "https://www.drupal.org/user/99340"
                 },
                 {
-                    "name": "EclipseGc",
+                    "name": "eclipsegc",
                     "homepage": "https://www.drupal.org/user/61203"
                 },
                 {
@@ -5408,8 +5408,8 @@
             ],
             "authors": [
                 {
-                    "name": "Niels van Mourik",
-                    "homepage": "http://www.nielsvm.org"
+                    "name": "djbobbydrake",
+                    "homepage": "https://www.drupal.org/user/336378"
                 },
                 {
                     "name": "japerry",
@@ -5418,10 +5418,6 @@
                 {
                     "name": "nielsvm",
                     "homepage": "https://www.drupal.org/user/163285"
-                },
-                {
-                    "name": "SqyD",
-                    "homepage": "https://www.drupal.org/user/106525"
                 }
             ],
             "description": "Queues every tag that Drupal invalidates internally.",
@@ -8550,12 +8546,12 @@
             "version": "3.7.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
+                "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
                 "reference": "1359e176e9307e906dc3d890bcc9603ff6d90619"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/1359e176e9307e906dc3d890bcc9603ff6d90619",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/1359e176e9307e906dc3d890bcc9603ff6d90619",
                 "reference": "1359e176e9307e906dc3d890bcc9603ff6d90619",
                 "shasum": ""
             },
@@ -11526,7 +11522,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.4"
+        "php": ">=8.2"
     },
     "platform-dev": {},
     "plugin-api-version": "2.9.0"
