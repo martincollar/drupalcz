@@ -1,8 +1,7 @@
-uuid: 8ea71162-86ad-4c2b-87c5-3ec60e967856
+uuid: 5bd6d8b3-0507-4692-bc2b-99ed2b9aee77
 langcode: cs
 status: true
 dependencies: {  }
 id: kterekaprotkprahou
 question: 'Která řeka protéká Prahou?'
 solution: 'Vltava, vltava'
-hint: null
